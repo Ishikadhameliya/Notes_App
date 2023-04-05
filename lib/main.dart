@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:notes_app/screens/detailpage.dart';
-import 'package:notes_app/screens/homepage.dart';
-import 'package:notes_app/screens/splashscreen.dart';
+import 'package:notes_app/views/screens/detailspage.dart';
+import 'package:notes_app/views/screens/homepage.dart';
+import 'package:notes_app/views/screens/splashscreen_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
